@@ -1,0 +1,31 @@
+<fitContributions>
+    <fitField id="0" displayInChart="true" sortOrder = "0" precision="0"
+              chartTitle="@Strings.repeticiones_serie" dataLabel="@Strings.repeticiones_serie"
+              unitLabel="@Strings.repeticiones_serie_unit" fillColor="#FF0000" />
+              
+     <fitField id="1" displayInChart="true" sortOrder = "0" precision="0"
+              chartTitle="@Strings.tiempo_descanso" dataLabel="@Strings.tiempo_descanso"
+              unitLabel="@Strings.tiempo_descanso_unit" fillColor="#FF0210" />
+                        
+     <fitField id="2" displayInChart="true" sortOrder = "0" precision="0"
+              chartTitle="@Strings.tiempo_trabajo" dataLabel="@Strings.tiempo_trabajo"
+              unitLabel="@Strings.tiempo_trabajo_unit" fillColor="#FF02AA" />
+      
+     <fitField id="3" displayInChart="true" sortOrder = "0" precision="0"
+              chartTitle="@Strings.ejercicio" dataLabel="@Strings.ejercicio"
+              unitLabel="@Strings.ejercicio_unit" fillColor="#FF0244" />
+     
+     <fitField id="4" displayInChart="true" sortOrder = "0" precision="0"
+              chartTitle="@Strings.peso_serie" dataLabel="@Strings.peso_serie"
+              unitLabel="@Strings.peso_serie_unit" fillColor="#FFCCAA" />
+              
+      <fitField id="5" displayInChart="true" sortOrder = "0" precision="0"
+              chartTitle="@Strings.series" dataLabel="@Strings.series"
+              unitLabel="@Strings.series_unit" fillColor="#FFCCAA" />
+               
+     <fitField id="6" displayInChart="false" sortOrder = "0" precision="0"
+               dataLabel="@Strings.control"
+               unitLabel="@Strings.control"  />
+                  
+              
+ </fitContributions>

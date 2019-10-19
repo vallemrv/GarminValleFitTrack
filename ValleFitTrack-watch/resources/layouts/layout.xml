@@ -1,0 +1,33 @@
+<layout id="MainLayout">
+     <drawable id="MainBackground" />
+      
+     <label id="hora_label" text="HOR" x="center" y="6"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_XTINY"  />  
+	 <label id="hora" text="20:30" x="center" y="20"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_TINY" />
+	
+	 <label id="hr_label" text="HR" x="30%" y="10"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_XTINY" /> 
+	 <label id="hr" text="000" x="25%" y="25"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_TINY"  />
+	 
+	 <label id="kal_label" text="KAL" x="70%" y="10"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_XTINY"  />
+	 <label id="kal" text="1000" x="75%" y="25"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_TINY" />
+	  
+     <label id="set_label" text="set"  x="15%" y="30%"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_XTINY"/>
+     <label id="set" text="00"  x="15%" y="40%"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM"  />
+     
+     <label id="lap_label" text="lap"  x="35%" y="30%"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_XTINY"/>
+     <label id="lap" text="00"  x="35%" y="40%"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM"  />
+	
+	
+	 <label id="workout_label" text="work" x="70%" y="30%"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_XTINY"  />
+	 <label id="workout" text="00:00"  x="70%" y="40%"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM"  />
+	
+	 <label id="timer_label" text="timer" x="30%" y="80%"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_XTINY"  />
+	 <label id="timer" text="00:00:00"  x="30%" y="70%"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM"/>
+	
+	 <label id="rest_lable" text="rest" x="70%" y="80%"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_XTINY" />
+	 <label id="rest" text="00:00"  x="70%" y="70%"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_LARGE"  />
+	 
+	 <label id="info" text="next lap"  x="center" y="95%"  justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_XTINY"  />
+	 
+	 
+	 
+</layout>

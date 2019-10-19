@@ -1,0 +1,8 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />   
+    <bitmap id="cloud" filename="images/cloud.png" />
+    <drawable-list id="MainBackground" background="0x3498DB">
+        <shape type="rectangle" x="0" y="23%" width="100%" height="1" color="Gfx.COLOR_BLACK" />
+        <shape type="rectangle" x="0" y="85%" width="100%" height="1" color="Gfx.COLOR_BLACK" />
+    </drawable-list>
+</drawables>

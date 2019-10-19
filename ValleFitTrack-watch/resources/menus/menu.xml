@@ -1,0 +1,5 @@
+<menu id="MainMenu">
+	<menu-item id="item_1" label="Settings" />
+    <menu-item id="item_1" label="Guardar" />
+    <menu-item id="item_3" label="Descartar" />
+</menu>

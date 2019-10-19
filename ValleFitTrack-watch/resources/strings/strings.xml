@@ -1,0 +1,18 @@
+<strings>
+   <string id="AppName">ValleFitTrack</string>
+   <string id="repeticiones_serie">repeticiones_serie</string>
+   <string id="tiempo_descanso">tiempo_descanso_serie</string>
+   <string id="tiempo_trabajo">tiempo_trabajo_serie</string> 
+   <string id="ejercicio">ejercicio</string> 
+   <string id="peso_serie">peso_serie</string> 
+   <string id="series">series</string>
+   <string id="control">control</string> 
+   
+   <string id="repeticiones_serie_unit">rep/ser</string>
+   <string id="tiempo_descanso_unit">s</string>
+   <string id="tiempo_trabajo_unit">s</string>
+   <string id="peso_serie_unit">kg</string>
+   <string id="ejercicio_unit">zona</string>
+   <string id="series_unit">ser</string>
+   
+</strings>
