@@ -7,7 +7,7 @@ using Toybox.Application;
 class ValleFitTrackDelegate extends WatchUi.BehaviorDelegate {
 
     hidden var mTracker;
-    
+
     function initialize(tracker) {
        BehaviorDelegate.initialize();
        mTracker = tracker;
@@ -24,40 +24,37 @@ class ValleFitTrackDelegate extends WatchUi.BehaviorDelegate {
         menu.addItem(new WatchUi.MenuItem("Save", "Exit", "save", null));
         menu.addItem(new WatchUi.MenuItem("Cancel", "Exit", "cancel", null));
         WatchUi.pushView(menu, new ValleFitTrackMenuDelegate(mTracker), WatchUi.SLIDE_UP );
-        return true;       
+        return true;
     }
 
     function onSelect() {
-    	if (mTracker.getStatus() == mTracker.INIT){
-    	    mTracker.onStart();
-    	}else if (mTracker.getStatus() == mTracker.PAUSED_WORKING){
-    	    mTracker.onStartWork();
-    	}else if (mTracker.getStatus() == mTracker.STARTED_WORKING){
-    	    mTracker.onStopWork();
-    	}
-    	
+      	if (mTracker.getStatus() == mTracker.INIT){
+      	    mTracker.onStart();
+      	}else if (mTracker.getStatus() == mTracker.PAUSED_WORKING){
+      	    mTracker.onStartWork();
+      	}else if (mTracker.getStatus() == mTracker.STARTED_WORKING){
+      	    mTracker.onStopWork();
+      	}
         return true;
     }
 
-  
+
     function onSwipe(evt) {
-        mTracker.onNextLap();
-        return true;
+       mTracker.onNextLap();
+       return true;
     }
-    
+
     function onRelease( evt ){
        return true;
     }
-    
- 	function onKey(evt){
- 	   return true;
- 	}
+
+   	function onKey(evt){
+   	   return true;
+   	}
 
     function onKeyPressed(evt) {
-         return true;
+       return true;
     }
-
-    
 
 }
 

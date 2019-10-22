@@ -13,7 +13,7 @@ class ValleFitTrackView extends WatchUi.View {
 	var mLabelRest;
 	var mTracker;
 	var mLabelLap;
-	
+
     function initialize(tracker) {
         View.initialize();
         mTracker = tracker;
@@ -25,11 +25,11 @@ class ValleFitTrackView extends WatchUi.View {
         mLabelHora = View.findDrawableById("hora");
         mLabelHr = View.findDrawableById("hr");
         mLabelKal = View.findDrawableById("kal");
-    	mLabelTimer = View.findDrawableById("timer");
-    	mLabelWork = View.findDrawableById("workout");
-    	mLabelSet = View.findDrawableById("set");
-    	mLabelRest = View.findDrawableById("rest");
-    	mLabelLap = View.findDrawableById("lap");
+	    	mLabelTimer = View.findDrawableById("timer");
+	    	mLabelWork = View.findDrawableById("workout");
+	    	mLabelSet = View.findDrawableById("set");
+	    	mLabelRest = View.findDrawableById("rest");
+	    	mLabelLap = View.findDrawableById("lap");
     }
 
     // Called when this View is brought to the foreground. Restore
@@ -37,33 +37,32 @@ class ValleFitTrackView extends WatchUi.View {
     // loading resources into memory.
     function onShow() {
         if (!mTracker.choice){
-	    	var rest = Application.getApp().getProperty("rest");
-	        if (rest == null){
-		       rest = mTracker.TIME_REST;
-		       Application.getApp().setProperty("rest", mTracker.TIME_REST);
+		    	  var rest = Application.getApp().getProperty("rest");
+		        if (rest == null){
+				       rest = mTracker.TIME_REST;
+				       Application.getApp().setProperty("rest", mTracker.TIME_REST);
+			      }
+
+			      var aWork = Application.getApp().getProperty("work");
+		        if (aWork == null){
+		           aWork = 0;
+			         Application.getApp().setProperty("work", aWork);
+			      }
+			    	mTracker.TIME_REST = rest;
+			    	mTracker.aviso_work = aWork;
+
+		    }else if (mTracker.choice && mTracker.tipo == 1){
+		      mTracker.choice = false;
+		    }else{
+		      mTracker.tipo = mTracker.tipo -1;
 		    }
-		    
-		    var aWork = Application.getApp().getProperty("work");
-	        if (aWork == null){
-	           aWork = 0;
-		       Application.getApp().setProperty("work", aWork);
-		    }
-		    mTracker.TIME_REST = rest;
-		    mTracker.aviso_work = aWork;
-		    
-	    }else if (mTracker.choice && mTracker.tipo == 1){
-	      mTracker.choice = false;
-	    }else{
-	      mTracker.tipo = mTracker.tipo -1;
-	    }
-	    
-	    
+
     }
-    
+
 
     // Update the view
     function onUpdate(dc) {
-         mLabelTimer.setText(mTracker.getTiempo().toString()); 
+         mLabelTimer.setText(mTracker.getTiempo().toString());
          mLabelHora.setText(mTracker.getHora().toString());
          mLabelHr.setText(mTracker.getHR().toString());
          mLabelKal.setText(mTracker.getKAL().toString());
@@ -71,20 +70,20 @@ class ValleFitTrackView extends WatchUi.View {
          mLabelWork.setText(mTracker.getWork().toString());
          mLabelRest.setText(mTracker.getRest().toString());
          mLabelLap.setText(mTracker.getLap().toString());
-         
-         View.onUpdate(dc); 
-         
+
+         View.onUpdate(dc);
+
          if (mTracker.getStatus() == mTracker.INIT) {
          		drawInfo(dc);
          }
-           
+
     }
-    
-    
-    
+
+
+
     function drawInfo(dc){
-    
-    	dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_GREEN);
+
+      	dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_GREEN);
         dc.fillCircle(dc.getWidth()/2, dc.getHeight()/2, dc.getWidth()/3);
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
         dc.drawText(
@@ -94,7 +93,7 @@ class ValleFitTrackView extends WatchUi.View {
 			        "Click",  // the String to display
 			        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
                 );
-                
+
         dc.drawText(
 			        dc.getWidth() / 2,                       // gets the width of the device and divides by 2
 			        dc.getHeight() * 0.40,                   // gets the height of the device and divides by 2
@@ -102,21 +101,16 @@ class ValleFitTrackView extends WatchUi.View {
 			        "aqui para",                              // the String to display
 			        Graphics.TEXT_JUSTIFY_CENTER             // sets the justification for the text
                 );
-                
+
          dc.drawText(
 			        dc.getWidth() / 2,                      // gets the width of the device and divides by 2
 			        dc.getHeight() * 0.5,                   // gets the height of the device and divides by 2
 			        Graphics.FONT_MEDIUM,                   // sets the font size
 			        "iniciar",                         // the String to display
 			        Graphics.TEXT_JUSTIFY_CENTER            // sets the justification for the text
-                );
-                
-          
-    
-        
- 
+                ); 
     }
-    
+
 
 
     // Called when this View is removed from the screen. Save the
@@ -124,6 +118,6 @@ class ValleFitTrackView extends WatchUi.View {
     // memory.
     function onHide() {
     }
-    
+
 
 }
