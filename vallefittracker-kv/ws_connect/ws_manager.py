@@ -8,27 +8,38 @@
 from kivy.event import EventDispatcher
 from kivy.properties import BooleanProperty
 from kivy.clock import Clock
+from kivy.logger import Logger
 from functools import partial
+
 import sys
 import websocket
 import json
 import time
 import threading
 
-class WSManager(EventDispatcher):
 
+# Clase encargada para recirbir e enviar mensajes al websocket
+class WSManager(EventDispatcher):
     closed = BooleanProperty(False)
 
+    # El contructor tiene los parametros de la direccion del sevidor websocket y un controlador el cual
+    # maneja los eventos que genera el ws_manager.
+    # el controller tiene que implenetar o no: onMessage, onClose, onOpen, onError.
     def __init__(self, url, controller):
         self.controller = controller
         self.url = url
         threading.Thread(target=self.run_websoker).start()
 
+    def send(self, mensaje):
+        if self.ws:
+            self.ws.send(json.dumps(mensaje))
+
     def on_closed(self, w, v):
         if self.closed:
             self.ws.close()
 
-    def stop(self):
+    #llamada para cerrar el websocket pues es de conexion contiuada.
+    def close(self):
         self.closed = True
         self.ws.close()
 
@@ -40,25 +51,25 @@ class WSManager(EventDispatcher):
                 pass
             Clock.schedule_once(partial(self.controller.onMessage, message), 0.5)
         else:
-            print(message+ "  No implementado onMessage en el controlador")
+            Logger.info("ValleFit: No implementado onMessage en el controlador "+message)
 
     def on_error(self, error):
         if self.controller and hasattr(self.controller, "onError"):
             Clock.schedule_once(partial(self.controller.onError, error), 0.5)
         else:
-            print("Error en ws, no implementado onError: ", error)
+            Logger.info("ValleFit: Error en ws, no implementado onError: ", error)
 
     def on_close(self):
         if self.controller and hasattr(self.controller, "onClose"):
             Clock.schedule_once(partial(self.controller.onClose), 0.5)
         else:
-            print("Cerrado el ws, no implementado onClose")
+            Logger.info("ValleFit: Cerrado el ws, no implementado onClose")
 
     def on_open(self):
         if self.controller and hasattr(self.controller, "onOpen"):
             Clock.schedule_once(partial(self.controller.onOpen), 0.5)
         else:
-            print("Abierto el ws, no implementado onOpen")
+            Logger.info("ValleFit: Abierto el ws, no implementado onOpen")
 
 
     def run_websoker(self):

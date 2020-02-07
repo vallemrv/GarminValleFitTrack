@@ -5,7 +5,8 @@ import sys
 
 
 def main():
-    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'garmin_web.settings')
+    settings = os.environ["settins_garmin_poxi"] if "settins_garmin_poxi" in os.environ else "settings"
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'garmin_web.'+settings)
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:

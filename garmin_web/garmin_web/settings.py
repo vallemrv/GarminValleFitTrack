@@ -102,6 +102,10 @@ DATABASE_ROUTERS = ('garmin_proxi.dbrouters.MyDBRouter',)
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    },
+    'garmin': {
+        'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(DIR_DBs, 'garmin.db'),
     },
     'garmin_activities': {

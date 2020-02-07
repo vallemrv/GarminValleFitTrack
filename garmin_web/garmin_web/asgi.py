@@ -15,7 +15,9 @@ import os
 import django
 from channels.routing import get_default_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "garmin_web.settings")
+settings = os.environ["settins_garmin_poxi"] if "settins_garmin_poxi" in os.environ else "settings"
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "garmin_web."+ settings)
 
 django.setup()
 application = get_default_application()

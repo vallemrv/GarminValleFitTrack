@@ -77,7 +77,7 @@ def get_activity_statistics(request, id):
                 aux = int(value)
                 if aux > control_series:
                     control_series = aux
-                    ejercicio["ejercicio"] = serie["ejercicio"]
+                    ejercicio["ejercicio"] = get_ejercicio_name(serie["ejercicio"])
                     ejercicio["series"].append(serie)
                     serie = {
                         "tiempo_descanso_serie": 0,
@@ -109,6 +109,7 @@ def get_activity_statistics(request, id):
 
 
 def get_ejercicio_name(index):
+    index = int(index)
     if index == 7:
         return "Cardio"
     elif index == 6:
@@ -123,6 +124,7 @@ def get_ejercicio_name(index):
         return "Espalda"
     elif index == 1:
         return "Pecho"
+    return "Cardio"
 
 
 def run_update_garmin(request):

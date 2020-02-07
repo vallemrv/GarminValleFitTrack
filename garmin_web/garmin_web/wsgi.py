@@ -20,6 +20,7 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'garmin_web.settings')
+settings = os.environ["settins_garmin_poxi"] if "settins_garmin_poxi" in os.environ else "settings"
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'garmin_web.'+ settings)
 
 application = get_wsgi_application()

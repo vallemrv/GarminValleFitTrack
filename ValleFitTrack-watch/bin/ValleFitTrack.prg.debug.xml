@@ -1,486 +1,485 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="3" lineNum="11" pc="268435456" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="3" lineNum="12" pc="268435460" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="3" lineNum="13" pc="268435478" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="4" lineNum="16" pc="268435489" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="4" lineNum="18" pc="268435493" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="4" lineNum="20" pc="268435562" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="4" lineNum="21" pc="268435612" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="4" lineNum="22" pc="268435666" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="4" lineNum="23" pc="268435716" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="4" lineNum="24" pc="268435766" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="4" lineNum="25" pc="268435820" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="4" lineNum="26" pc="268435874" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="4" lineNum="27" pc="268435934" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="5" lineNum="30" pc="268435938" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="5" lineNum="31" pc="268435942" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="5" lineNum="32" pc="268435977" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="5" lineNum="33" pc="268435998" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="5" lineNum="34" pc="268436033" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="5" lineNum="35" pc="268436054" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="5" lineNum="36" pc="268436089" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="5" lineNum="39" pc="268436110" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="6" lineNum="43" pc="268436114" symbol="onSwipe"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="6" lineNum="44" pc="268436118" symbol="onSwipe"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="6" lineNum="45" pc="268436136" symbol="onSwipe"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="7" lineNum="48" pc="268436140" symbol="onRelease"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="7" lineNum="49" pc="268436144" symbol="onRelease"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="8" lineNum="52" pc="268436148" symbol="onKey"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="8" lineNum="53" pc="268436152" symbol="onKey"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="9" lineNum="56" pc="268436156" symbol="onKeyPressed"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="9" lineNum="57" pc="268436160" symbol="onKeyPressed"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="11" lineNum="70" pc="268436164" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="11" lineNum="71" pc="268436168" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="11" lineNum="72" pc="268436192" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="12" lineNum="75" pc="268436203" symbol="setSelected"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="12" lineNum="76" pc="268436207" symbol="setSelected"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="80" pc="268436218" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="81" pc="268436222" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="82" pc="268436229" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="83" pc="268436266" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="84" pc="268436279" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="86" pc="268436312" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="87" pc="268436340" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="88" pc="268436371" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="89" pc="268436381" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="91" pc="268436400" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="92" pc="268436440" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="93" pc="268436456" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="95" pc="268436468" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="96" pc="268436486" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackDelegate.mc" id="13" lineNum="97" pc="268436522" symbol="draw"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="15" lineNum="11" pc="268436581" symbol="getIndex"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="15" lineNum="12" pc="268436585" symbol="getIndex"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="15" lineNum="13" pc="268436607" symbol="getIndex"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="16" pc="268436611" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="17" pc="268436615" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="19" pc="268436633" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="20" pc="268436643" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="21" pc="268436653" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="23" pc="268436663" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="24" pc="268436670" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="25" pc="268436694" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="28" pc="268436721" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="29" pc="268436734" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="32" pc="268436757" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="16" lineNum="33" pc="268436770" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="17" lineNum="37" pc="268436787" symbol="getDrawable"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="17" lineNum="38" pc="268436791" symbol="getDrawable"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="18" lineNum="41" pc="268436939" symbol="getValue"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="18" lineNum="42" pc="268436943" symbol="getValue"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="19" lineNum="45" pc="268436965" symbol="getSize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/factories/NumberFactory.mc" id="19" lineNum="46" pc="268436969" symbol="getSize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="21" lineNum="17" pc="268437003" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="21" lineNum="18" pc="268437007" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="21" lineNum="19" pc="268437025" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="22" lineNum="23" pc="268437036" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="22" lineNum="24" pc="268437040" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="22" lineNum="25" pc="268437077" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="22" lineNum="26" pc="268437107" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="22" lineNum="27" pc="268437137" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="22" lineNum="28" pc="268437167" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="22" lineNum="29" pc="268437197" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="22" lineNum="30" pc="268437227" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="22" lineNum="31" pc="268437257" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="22" lineNum="32" pc="268437287" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="38" pc="268437318" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="39" pc="268437322" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="40" pc="268437340" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="41" pc="268437373" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="42" pc="268437380" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="43" pc="268437396" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="46" pc="268437445" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="47" pc="268437478" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="48" pc="268437485" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="49" pc="268437492" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="51" pc="268437529" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="52" pc="268437545" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="54" pc="268437564" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="55" pc="268437607" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="23" lineNum="57" pc="268437626" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="65" pc="268437661" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="66" pc="268437665" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="67" pc="268437709" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="68" pc="268437753" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="69" pc="268437797" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="70" pc="268437841" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="71" pc="268437885" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="72" pc="268437929" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="73" pc="268437973" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="75" pc="268438017" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="77" pc="268438037" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="24" lineNum="78" pc="268438072" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="25" lineNum="85" pc="268438090" symbol="drawInfo"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="25" lineNum="87" pc="268438094" symbol="drawInfo"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="25" lineNum="88" pc="268438134" symbol="drawInfo"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="25" lineNum="89" pc="268438197" symbol="drawInfo"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="25" lineNum="90" pc="268438237" symbol="drawInfo"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="25" lineNum="98" pc="268438316" symbol="drawInfo"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="25" lineNum="106" pc="268438395" symbol="drawInfo"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackView.mc" id="26" lineNum="125" pc="268438475" symbol="onHide"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="28" lineNum="22" pc="268438480" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="28" lineNum="23" pc="268438484" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="28" lineNum="24" pc="268438502" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="28" lineNum="25" pc="268438544" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="28" lineNum="26" pc="268438586" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="29" lineNum="30" pc="268438681" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="29" lineNum="31" pc="268438685" symbol="onLayout"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="30" lineNum="34" pc="268438755" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="30" lineNum="35" pc="268438759" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="30" lineNum="36" pc="268438787" symbol="onShow"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="31" lineNum="39" pc="268438823" symbol="timer_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="31" lineNum="40" pc="268438827" symbol="timer_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="32" lineNum="44" pc="268438844" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="32" lineNum="45" pc="268438848" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="32" lineNum="46" pc="268438884" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="32" lineNum="47" pc="268438928" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="32" lineNum="48" pc="268438948" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="32" lineNum="49" pc="268438968" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="32" lineNum="50" pc="268438988" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/DrawableView.mc" id="32" lineNum="51" pc="268439024" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="34" lineNum="11" pc="268439100" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="34" lineNum="12" pc="268439104" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="34" lineNum="13" pc="268439122" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="16" pc="268439133" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="17" pc="268439137" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="18" pc="268439165" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="19" pc="268439250" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="20" pc="268439278" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="21" pc="268439363" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="22" pc="268439391" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="23" pc="268439412" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="24" pc="268439440" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="25" pc="268439461" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="26" pc="268439489" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="27" pc="268439517" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="28" pc="268439538" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="29" pc="268439566" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="30" pc="268439594" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="35" lineNum="32" pc="268439615" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="36" lineNum="35" pc="268439619" symbol="onBack"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="36" lineNum="36" pc="268439623" symbol="onBack"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="37" lineNum="39" pc="268439652" symbol="onNextPage"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackMenuDelegate.mc" id="37" lineNum="40" pc="268439656" symbol="onNextPage"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="39" lineNum="11" pc="268439685" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="39" lineNum="12" pc="268439689" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="40" lineNum="15" pc="268439700" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="40" lineNum="17" pc="268439704" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="40" lineNum="19" pc="268439773" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="40" lineNum="20" pc="268439823" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="40" lineNum="21" pc="268439873" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="40" lineNum="22" pc="268439923" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="40" lineNum="23" pc="268439973" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="40" lineNum="24" pc="268440023" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="40" lineNum="25" pc="268440073" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="40" lineNum="26" pc="268440123" symbol="onMenu"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="42" lineNum="37" pc="268440184" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="42" lineNum="38" pc="268440188" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="42" lineNum="39" pc="268440206" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="42" pc="268440217" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="43" pc="268440221" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="46" pc="268440387" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="47" pc="268440422" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="48" pc="268440457" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="50" pc="268440460" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="51" pc="268440495" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="52" pc="268440530" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="55" pc="268440533" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="56" pc="268440568" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="57" pc="268440603" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="59" pc="268440606" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="60" pc="268440641" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="61" pc="268440676" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="63" pc="268440679" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="64" pc="268440714" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="65" pc="268440749" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="69" pc="268440752" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="70" pc="268440790" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="43" lineNum="71" pc="268440818" symbol="onSelect"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="44" lineNum="74" pc="268440822" symbol="onBack"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="44" lineNum="75" pc="268440826" symbol="onBack"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="44" lineNum="76" pc="268440861" symbol="onBack"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="44" lineNum="77" pc="268440896" symbol="onBack"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="44" lineNum="78" pc="268440919" symbol="onBack"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="45" lineNum="81" pc="268440948" symbol="onNextPage"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="45" lineNum="82" pc="268440952" symbol="onNextPage"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="45" lineNum="83" pc="268440987" symbol="onNextPage"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="45" lineNum="84" pc="268441022" symbol="onNextPage"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/EjercicioPicker.mc" id="45" lineNum="85" pc="268441045" symbol="onNextPage"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="47" lineNum="8" pc="268441074" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="47" lineNum="10" pc="268441078" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="47" lineNum="15" pc="268441182" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="47" lineNum="16" pc="268441219" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="48" lineNum="23" pc="268441340" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="48" lineNum="24" pc="268441344" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="48" lineNum="25" pc="268441380" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="48" lineNum="26" pc="268441392" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="50" lineNum="40" pc="268441413" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="50" lineNum="41" pc="268441417" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="50" lineNum="42" pc="268441435" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="50" lineNum="43" pc="268441445" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="50" lineNum="44" pc="268441455" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="50" lineNum="45" pc="268441465" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="50" lineNum="46" pc="268441475" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="51" lineNum="49" pc="268441486" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="51" lineNum="50" pc="268441490" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="51" lineNum="51" pc="268441518" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="51" lineNum="52" pc="268441531" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="52" lineNum="57" pc="268441642" symbol="onAccept"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="52" lineNum="58" pc="268441646" symbol="onAccept"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="52" lineNum="59" pc="268441656" symbol="onAccept"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="52" lineNum="60" pc="268441682" symbol="onAccept"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="52" lineNum="61" pc="268441726" symbol="onAccept"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="52" lineNum="62" pc="268441754" symbol="onAccept"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/NumerPicker.mc" id="52" lineNum="63" pc="268441767" symbol="onAccept"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="57" pc="268441878" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="58" pc="268441882" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="60" pc="268441882" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="64" pc="268441964" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="69" pc="268442054" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="71" pc="268442077" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="76" pc="268442167" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="78" pc="268442190" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="82" pc="268442280" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="84" pc="268442303" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="88" pc="268442393" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="90" pc="268442416" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="94" pc="268442506" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="95" pc="268442529" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="99" pc="268442619" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="100" pc="268442642" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="103" pc="268442719" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="104" pc="268442745" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="107" pc="268442822" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="54" lineNum="112" pc="268442858" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="55" lineNum="117" pc="268442898" symbol="onStart"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="55" lineNum="118" pc="268442902" symbol="onStart"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="55" lineNum="119" pc="268442918" symbol="onStart"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="55" lineNum="120" pc="268442918" symbol="onStart"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="55" lineNum="123" pc="268442946" symbol="onStart"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="55" lineNum="126" pc="268442985" symbol="onStart"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="55" lineNum="127" pc="268443019" symbol="onStart"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="55" lineNum="128" pc="268443060" symbol="onStart"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="132" pc="268443073" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="133" pc="268443077" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="134" pc="268443093" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="135" pc="268443130" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="136" pc="268443167" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="137" pc="268443183" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="138" pc="268443209" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="139" pc="268443235" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="140" pc="268443257" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="141" pc="268443270" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="142" pc="268443292" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="56" lineNum="143" pc="268443305" symbol="onStartWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="57" lineNum="146" pc="268443323" symbol="onStopWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="57" lineNum="147" pc="268443327" symbol="onStopWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="57" lineNum="148" pc="268443343" symbol="onStopWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="57" lineNum="149" pc="268443369" symbol="onStopWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="57" lineNum="150" pc="268443391" symbol="onStopWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="57" lineNum="151" pc="268443408" symbol="onStopWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="57" lineNum="152" pc="268443418" symbol="onStopWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="57" lineNum="153" pc="268443431" symbol="onStopWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="58" lineNum="157" pc="268443545" symbol="onPauseWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="58" lineNum="159" pc="268443549" symbol="onPauseWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="59" lineNum="162" pc="268443567" symbol="onResumeWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="59" lineNum="163" pc="268443571" symbol="onResumeWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="59" lineNum="164" pc="268443587" symbol="onResumeWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="60" lineNum="167" pc="268443605" symbol="onNextLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="60" lineNum="168" pc="268443609" symbol="onNextLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="60" lineNum="169" pc="268443649" symbol="onNextLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="60" lineNum="170" pc="268443667" symbol="onNextLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="60" lineNum="171" pc="268443689" symbol="onNextLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="60" lineNum="172" pc="268443715" symbol="onNextLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="60" lineNum="173" pc="268443741" symbol="onNextLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="60" lineNum="174" pc="268443757" symbol="onNextLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="60" lineNum="175" pc="268443779" symbol="onNextLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="60" lineNum="176" pc="268443792" symbol="onNextLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="60" lineNum="177" pc="268443809" symbol="onNextLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="61" lineNum="181" pc="268443825" symbol="onStop"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="61" lineNum="182" pc="268443829" symbol="onStop"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="61" lineNum="183" pc="268443865" symbol="onStop"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="61" lineNum="184" pc="268443883" symbol="onStop"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="61" lineNum="186" pc="268443895" symbol="onStop"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="62" lineNum="189" pc="268443912" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="62" lineNum="190" pc="268443916" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="62" lineNum="191" pc="268443932" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="62" lineNum="192" pc="268443968" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="62" lineNum="193" pc="268443986" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="62" lineNum="195" pc="268444040" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="63" lineNum="200" pc="268444057" symbol="onOpenEjerciciosDg"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="63" lineNum="201" pc="268444061" symbol="onOpenEjerciciosDg"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="63" lineNum="202" pc="268444071" symbol="onOpenEjerciciosDg"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="63" lineNum="203" pc="268444103" symbol="onOpenEjerciciosDg"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="64" lineNum="206" pc="268444116" symbol="openModPesoDg"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="64" lineNum="207" pc="268444120" symbol="openModPesoDg"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="213" pc="268444234" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="214" pc="268444238" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="215" pc="268444259" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="216" pc="268444269" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="217" pc="268444285" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="218" pc="268444314" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="219" pc="268444324" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="220" pc="268444329" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="222" pc="268444433" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="225" pc="268444513" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="226" pc="268444518" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="65" lineNum="228" pc="268444527" symbol="calculate_time_track"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="235" pc="268444534" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="236" pc="268444538" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="237" pc="268444557" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="238" pc="268444564" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="239" pc="268444601" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="241" pc="268444641" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="242" pc="268444663" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="243" pc="268444683" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="244" pc="268444705" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="245" pc="268444745" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="247" pc="268444768" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="248" pc="268444788" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="249" pc="268444805" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="250" pc="268444827" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="251" pc="268444844" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="254" pc="268444867" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="255" pc="268444883" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="256" pc="268444899" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="260" pc="268444919" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="261" pc="268444962" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="66" lineNum="263" pc="268444987" symbol="timer_duracion_callback"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="67" lineNum="267" pc="268445004" symbol="runVibrate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="67" lineNum="268" pc="268445008" symbol="runVibrate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="67" lineNum="269" pc="268445023" symbol="runVibrate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="67" lineNum="273" pc="268445072" symbol="runVibrate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="68" lineNum="277" pc="268445094" symbol="getWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="68" lineNum="278" pc="268445098" symbol="getWork"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="69" lineNum="281" pc="268445121" symbol="getSET"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="69" lineNum="282" pc="268445125" symbol="getSET"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="70" lineNum="285" pc="268445149" symbol="getTiempo"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="70" lineNum="286" pc="268445153" symbol="getTiempo"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="71" lineNum="289" pc="268445176" symbol="getHora"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="71" lineNum="290" pc="268445180" symbol="getHora"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="71" lineNum="291" pc="268445224" symbol="getHora"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="71" lineNum="292" pc="268445314" symbol="getHora"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="72" lineNum="295" pc="268445318" symbol="getKAL"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="72" lineNum="296" pc="268445322" symbol="getKAL"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="73" lineNum="299" pc="268445332" symbol="getRest"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="73" lineNum="300" pc="268445336" symbol="getRest"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="73" lineNum="302" pc="268445434" symbol="getRest"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="73" lineNum="304" pc="268445459" symbol="getRest"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="74" lineNum="308" pc="268445482" symbol="getHR"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="74" lineNum="309" pc="268445486" symbol="getHR"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="75" lineNum="312" pc="268445496" symbol="getLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="75" lineNum="313" pc="268445500" symbol="getLap"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="76" lineNum="316" pc="268445524" symbol="getStatus"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackController.mc" id="76" lineNum="317" pc="268445528" symbol="getStatus"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="78" lineNum="10" pc="268445538" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="78" lineNum="12" pc="268445542" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="78" lineNum="17" pc="268445649" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="78" lineNum="18" pc="268445677" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="79" lineNum="23" pc="268445817" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="79" lineNum="24" pc="268445821" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="79" lineNum="25" pc="268445857" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="79" lineNum="26" pc="268445869" symbol="onUpdate"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="81" lineNum="35" pc="268445890" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="81" lineNum="36" pc="268445894" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="81" lineNum="37" pc="268445912" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="82" lineNum="40" pc="268445923" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="82" lineNum="41" pc="268445927" symbol="onCancel"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="83" lineNum="44" pc="268445956" symbol="onAccept"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="83" lineNum="45" pc="268445960" symbol="onAccept"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/pickers/TimePicker.mc" id="83" lineNum="46" pc="268446001" symbol="onAccept"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackApp.mc" id="85" lineNum="8" pc="268446030" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackApp.mc" id="85" lineNum="9" pc="268446034" symbol="initialize"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackApp.mc" id="86" lineNum="13" pc="268446053" symbol="onStart"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackApp.mc" id="87" lineNum="17" pc="268446058" symbol="onStop"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackApp.mc" id="87" lineNum="18" pc="268446062" symbol="onStop"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackApp.mc" id="88" lineNum="22" pc="268446066" symbol="getInitialView"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackApp.mc" id="88" lineNum="23" pc="268446070" symbol="getInitialView"/>
-<entry filename="/Users/valle/proyectos/eclipse-workspace/ValleFitTrack/source/ValleFitTrackApp.mc" id="88" lineNum="24" pc="268446100" symbol="getInitialView"/>
-<entry filename="Rez" id="94" lineNum="28" pc="268446184" symbol="initialize"/>
-<entry filename="Rez" id="94" lineNum="29" pc="268446188" symbol="initialize"/>
-<entry filename="Rez" id="94" lineNum="30" pc="268446206" symbol="initialize"/>
-<entry filename="Rez" id="94" lineNum="31" pc="268446228" symbol="initialize"/>
-<entry filename="Rez" id="94" lineNum="32" pc="268446250" symbol="initialize"/>
-<entry filename="Rez" id="97" lineNum="48" pc="268446273" symbol="initialize"/>
-<entry filename="Rez" id="97" lineNum="49" pc="268446277" symbol="initialize"/>
-<entry filename="Rez" id="98" lineNum="52" pc="268446302" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="54" pc="268446306" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="55" pc="268446342" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="56" pc="268446398" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="58" pc="268446434" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="59" pc="268446470" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="61" pc="268446497" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="62" pc="268446533" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="64" pc="268446560" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="65" pc="268446596" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="67" pc="268446628" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="68" pc="268446664" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="70" pc="268446701" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="71" pc="268446737" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="72" pc="268446764" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="73" pc="268446800" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="75" pc="268446827" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="76" pc="268446863" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="78" pc="268446900" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="79" pc="268446936" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="81" pc="268447074" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="82" pc="268447110" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="83" pc="268447142" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="84" pc="268447178" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="86" pc="268447210" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="87" pc="268447246" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="89" pc="268447278" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="90" pc="268447314" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="92" pc="268447346" symbol="draw"/>
-<entry filename="Rez" id="98" lineNum="93" pc="268447382" symbol="draw"/>
-<entry filename="Rez" id="100" lineNum="106" pc="268447561" symbol="initialize"/>
-<entry filename="Rez" id="100" lineNum="107" pc="268447565" symbol="initialize"/>
-<entry filename="Rez" id="101" lineNum="110" pc="268447590" symbol="draw"/>
-<entry filename="Rez" id="101" lineNum="112" pc="268447594" symbol="draw"/>
-<entry filename="Rez" id="101" lineNum="113" pc="268447630" symbol="draw"/>
-<entry filename="Rez" id="101" lineNum="114" pc="268447686" symbol="draw"/>
-<entry filename="Rez" id="101" lineNum="116" pc="268447722" symbol="draw"/>
-<entry filename="Rez" id="101" lineNum="117" pc="268447758" symbol="draw"/>
-<entry filename="Rez" id="101" lineNum="119" pc="268447790" symbol="draw"/>
-<entry filename="Rez" id="101" lineNum="120" pc="268447826" symbol="draw"/>
-<entry filename="Rez" id="103" lineNum="133" pc="268447854" symbol="initialize"/>
-<entry filename="Rez" id="103" lineNum="134" pc="268447858" symbol="initialize"/>
-<entry filename="Rez" id="104" lineNum="137" pc="268447883" symbol="draw"/>
-<entry filename="Rez" id="104" lineNum="138" pc="268447887" symbol="draw"/>
-<entry filename="Rez" id="104" lineNum="139" pc="268447900" symbol="draw"/>
-<entry filename="Rez" id="104" lineNum="141" pc="268447913" symbol="draw"/>
-<entry filename="Rez" id="104" lineNum="142" pc="268447942" symbol="draw"/>
-<entry filename="Rez" id="104" lineNum="143" pc="268447980" symbol="draw"/>
-<entry filename="Rez" id="104" lineNum="145" pc="268448009" symbol="draw"/>
-<entry filename="Rez" id="104" lineNum="146" pc="268448045" symbol="draw"/>
-<entry filename="Rez" id="104" lineNum="148" pc="268448119" symbol="draw"/>
-<entry filename="Rez" id="104" lineNum="149" pc="268448155" symbol="draw"/>
-<entry filename="Rez" id="106" lineNum="164" pc="268448230" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="167" pc="268448242" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="168" pc="268448255" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="171" pc="268448268" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="172" pc="268448308" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="173" pc="268448321" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="175" pc="268448337" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="176" pc="268448466" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="177" pc="268448595" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="178" pc="268448724" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="179" pc="268448853" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="180" pc="268448982" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="181" pc="268449111" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="182" pc="268449267" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="183" pc="268449423" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="184" pc="268449579" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="185" pc="268449735" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="186" pc="268449891" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="187" pc="268450047" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="188" pc="268450203" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="189" pc="268450359" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="190" pc="268450515" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="191" pc="268450671" symbol="MainLayout"/>
-<entry filename="Rez" id="106" lineNum="193" pc="268450827" symbol="MainLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="57" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="58" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="60" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="64" pc="268435542" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="69" pc="268435632" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="71" pc="268435655" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="76" pc="268435745" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="78" pc="268435768" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="82" pc="268435858" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="84" pc="268435881" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="88" pc="268435971" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="90" pc="268435994" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="94" pc="268436084" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="96" pc="268436107" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="100" pc="268436197" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="102" pc="268436220" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="106" pc="268436297" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="108" pc="268436323" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="112" pc="268436400" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="3" lineNum="117" pc="268436436" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="4" lineNum="122" pc="268436476" symbol="onStart"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="4" lineNum="123" pc="268436480" symbol="onStart"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="4" lineNum="124" pc="268436496" symbol="onStart"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="4" lineNum="125" pc="268436496" symbol="onStart"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="4" lineNum="128" pc="268436524" symbol="onStart"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="4" lineNum="131" pc="268436563" symbol="onStart"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="4" lineNum="132" pc="268436597" symbol="onStart"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="4" lineNum="133" pc="268436638" symbol="onStart"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="137" pc="268436651" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="138" pc="268436655" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="139" pc="268436671" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="140" pc="268436708" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="141" pc="268436745" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="142" pc="268436761" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="143" pc="268436787" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="144" pc="268436813" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="145" pc="268436835" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="146" pc="268436848" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="147" pc="268436870" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="5" lineNum="148" pc="268436883" symbol="onStartWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="6" lineNum="151" pc="268436901" symbol="onStopWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="6" lineNum="152" pc="268436905" symbol="onStopWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="6" lineNum="153" pc="268436921" symbol="onStopWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="6" lineNum="154" pc="268436947" symbol="onStopWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="6" lineNum="155" pc="268436969" symbol="onStopWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="6" lineNum="156" pc="268436986" symbol="onStopWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="6" lineNum="157" pc="268436996" symbol="onStopWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="6" lineNum="158" pc="268437009" symbol="onStopWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="7" lineNum="162" pc="268437123" symbol="onPauseWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="7" lineNum="164" pc="268437127" symbol="onPauseWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="8" lineNum="167" pc="268437145" symbol="onResumeWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="8" lineNum="168" pc="268437149" symbol="onResumeWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="8" lineNum="169" pc="268437165" symbol="onResumeWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="9" lineNum="172" pc="268437183" symbol="onNextLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="9" lineNum="173" pc="268437187" symbol="onNextLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="9" lineNum="174" pc="268437250" symbol="onNextLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="9" lineNum="175" pc="268437268" symbol="onNextLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="9" lineNum="176" pc="268437290" symbol="onNextLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="9" lineNum="177" pc="268437316" symbol="onNextLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="9" lineNum="179" pc="268437342" symbol="onNextLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="9" lineNum="180" pc="268437364" symbol="onNextLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="9" lineNum="181" pc="268437377" symbol="onNextLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="9" lineNum="182" pc="268437394" symbol="onNextLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="10" lineNum="186" pc="268437410" symbol="onStop"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="10" lineNum="187" pc="268437414" symbol="onStop"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="10" lineNum="188" pc="268437450" symbol="onStop"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="10" lineNum="189" pc="268437468" symbol="onStop"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="10" lineNum="191" pc="268437480" symbol="onStop"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="11" lineNum="194" pc="268437497" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="11" lineNum="195" pc="268437501" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="11" lineNum="196" pc="268437517" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="11" lineNum="197" pc="268437553" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="11" lineNum="198" pc="268437571" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="11" lineNum="200" pc="268437625" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="12" lineNum="205" pc="268437642" symbol="onOpenEjerciciosDg"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="12" lineNum="206" pc="268437646" symbol="onOpenEjerciciosDg"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="12" lineNum="207" pc="268437656" symbol="onOpenEjerciciosDg"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="12" lineNum="208" pc="268437688" symbol="onOpenEjerciciosDg"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="13" lineNum="211" pc="268437701" symbol="openModPesoDg"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="13" lineNum="212" pc="268437705" symbol="openModPesoDg"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="219" pc="268437819" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="220" pc="268437823" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="221" pc="268437844" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="222" pc="268437854" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="223" pc="268437870" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="224" pc="268437899" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="225" pc="268437909" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="226" pc="268437914" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="228" pc="268438018" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="231" pc="268438098" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="232" pc="268438103" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="14" lineNum="234" pc="268438112" symbol="calculate_time_track"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="240" pc="268438119" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="241" pc="268438123" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="242" pc="268438142" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="243" pc="268438149" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="244" pc="268438186" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="246" pc="268438226" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="247" pc="268438248" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="248" pc="268438268" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="249" pc="268438290" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="250" pc="268438330" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="252" pc="268438353" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="253" pc="268438373" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="254" pc="268438390" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="255" pc="268438412" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="256" pc="268438429" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="259" pc="268438452" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="260" pc="268438468" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="261" pc="268438484" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="265" pc="268438504" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="266" pc="268438547" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="15" lineNum="268" pc="268438572" symbol="timer_duracion_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="16" lineNum="272" pc="268438589" symbol="runVibrate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="16" lineNum="273" pc="268438593" symbol="runVibrate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="16" lineNum="274" pc="268438608" symbol="runVibrate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="16" lineNum="275" pc="268438657" symbol="runVibrate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="17" lineNum="279" pc="268438679" symbol="getWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="17" lineNum="280" pc="268438683" symbol="getWork"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="18" lineNum="283" pc="268438706" symbol="getSET"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="18" lineNum="284" pc="268438710" symbol="getSET"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="19" lineNum="287" pc="268438734" symbol="getTiempo"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="19" lineNum="288" pc="268438738" symbol="getTiempo"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="20" lineNum="291" pc="268438761" symbol="getHora"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="20" lineNum="292" pc="268438765" symbol="getHora"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="20" lineNum="293" pc="268438809" symbol="getHora"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="20" lineNum="294" pc="268438899" symbol="getHora"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="21" lineNum="297" pc="268438903" symbol="getKAL"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="21" lineNum="298" pc="268438907" symbol="getKAL"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="22" lineNum="301" pc="268438917" symbol="getRest"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="22" lineNum="302" pc="268438921" symbol="getRest"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="22" lineNum="304" pc="268439019" symbol="getRest"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="22" lineNum="306" pc="268439044" symbol="getRest"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="23" lineNum="310" pc="268439067" symbol="getHR"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="23" lineNum="311" pc="268439071" symbol="getHR"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="24" lineNum="314" pc="268439081" symbol="getLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="24" lineNum="315" pc="268439085" symbol="getLap"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="25" lineNum="318" pc="268439109" symbol="getStatus"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackController.mc" id="25" lineNum="319" pc="268439113" symbol="getStatus"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackApp.mc" id="27" lineNum="8" pc="268439123" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackApp.mc" id="27" lineNum="9" pc="268439127" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackApp.mc" id="28" lineNum="13" pc="268439146" symbol="onStart"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackApp.mc" id="29" lineNum="17" pc="268439151" symbol="onStop"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackApp.mc" id="29" lineNum="18" pc="268439155" symbol="onStop"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackApp.mc" id="30" lineNum="22" pc="268439159" symbol="getInitialView"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackApp.mc" id="30" lineNum="23" pc="268439163" symbol="getInitialView"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackApp.mc" id="30" lineNum="24" pc="268439193" symbol="getInitialView"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="32" lineNum="11" pc="268439277" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="32" lineNum="12" pc="268439281" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="33" lineNum="15" pc="268439292" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="33" lineNum="17" pc="268439296" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="33" lineNum="19" pc="268439365" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="33" lineNum="20" pc="268439415" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="33" lineNum="21" pc="268439465" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="33" lineNum="22" pc="268439515" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="33" lineNum="23" pc="268439565" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="33" lineNum="24" pc="268439615" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="33" lineNum="25" pc="268439665" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="33" lineNum="26" pc="268439715" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="35" lineNum="37" pc="268439776" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="35" lineNum="38" pc="268439780" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="35" lineNum="39" pc="268439798" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="42" pc="268439809" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="43" pc="268439813" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="46" pc="268439979" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="47" pc="268440014" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="48" pc="268440049" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="50" pc="268440052" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="51" pc="268440087" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="52" pc="268440122" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="55" pc="268440125" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="56" pc="268440160" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="57" pc="268440195" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="59" pc="268440198" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="60" pc="268440233" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="61" pc="268440268" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="63" pc="268440271" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="64" pc="268440306" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="65" pc="268440341" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="69" pc="268440344" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="70" pc="268440382" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="36" lineNum="71" pc="268440410" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="37" lineNum="74" pc="268440414" symbol="onBack"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="37" lineNum="75" pc="268440418" symbol="onBack"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="37" lineNum="76" pc="268440453" symbol="onBack"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="37" lineNum="77" pc="268440488" symbol="onBack"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="37" lineNum="78" pc="268440511" symbol="onBack"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="38" lineNum="81" pc="268440540" symbol="onNextPage"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="38" lineNum="82" pc="268440544" symbol="onNextPage"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="38" lineNum="83" pc="268440579" symbol="onNextPage"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="38" lineNum="84" pc="268440614" symbol="onNextPage"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/EjercicioPicker.mc" id="38" lineNum="85" pc="268440637" symbol="onNextPage"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="40" lineNum="22" pc="268440666" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="40" lineNum="23" pc="268440670" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="40" lineNum="24" pc="268440688" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="40" lineNum="25" pc="268440730" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="40" lineNum="26" pc="268440772" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="41" lineNum="30" pc="268440867" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="41" lineNum="31" pc="268440871" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="42" lineNum="34" pc="268440941" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="42" lineNum="35" pc="268440945" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="42" lineNum="36" pc="268440973" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="43" lineNum="39" pc="268441009" symbol="timer_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="43" lineNum="40" pc="268441013" symbol="timer_callback"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="44" lineNum="44" pc="268441030" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="44" lineNum="45" pc="268441034" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="44" lineNum="46" pc="268441070" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="44" lineNum="47" pc="268441114" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="44" lineNum="48" pc="268441134" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="44" lineNum="49" pc="268441154" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="44" lineNum="50" pc="268441174" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/DrawableView.mc" id="44" lineNum="51" pc="268441210" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="46" lineNum="11" pc="268441286" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="46" lineNum="12" pc="268441290" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="46" lineNum="13" pc="268441308" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="16" pc="268441319" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="17" pc="268441323" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="18" pc="268441351" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="19" pc="268441436" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="20" pc="268441464" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="21" pc="268441549" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="22" pc="268441577" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="23" pc="268441598" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="24" pc="268441626" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="25" pc="268441647" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="26" pc="268441675" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="27" pc="268441703" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="28" pc="268441724" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="29" pc="268441752" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="30" pc="268441780" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="47" lineNum="32" pc="268441801" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="48" lineNum="35" pc="268441805" symbol="onBack"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="48" lineNum="36" pc="268441809" symbol="onBack"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="49" lineNum="39" pc="268441838" symbol="onNextPage"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackMenuDelegate.mc" id="49" lineNum="40" pc="268441842" symbol="onNextPage"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="51" lineNum="11" pc="268441871" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="51" lineNum="12" pc="268441875" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="51" lineNum="13" pc="268441893" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="52" lineNum="16" pc="268441904" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="52" lineNum="18" pc="268441908" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="52" lineNum="20" pc="268441977" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="52" lineNum="21" pc="268442027" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="52" lineNum="22" pc="268442081" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="52" lineNum="23" pc="268442131" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="52" lineNum="24" pc="268442181" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="52" lineNum="25" pc="268442235" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="52" lineNum="26" pc="268442289" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="52" lineNum="27" pc="268442349" symbol="onMenu"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="53" lineNum="30" pc="268442353" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="53" lineNum="31" pc="268442357" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="53" lineNum="32" pc="268442392" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="53" lineNum="33" pc="268442413" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="53" lineNum="34" pc="268442448" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="53" lineNum="35" pc="268442469" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="53" lineNum="36" pc="268442504" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="53" lineNum="38" pc="268442525" symbol="onSelect"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="54" lineNum="42" pc="268442529" symbol="onSwipe"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="54" lineNum="43" pc="268442533" symbol="onSwipe"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="54" lineNum="44" pc="268442551" symbol="onSwipe"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="55" lineNum="47" pc="268442555" symbol="onRelease"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="55" lineNum="48" pc="268442559" symbol="onRelease"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="56" lineNum="51" pc="268442563" symbol="onKey"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="56" lineNum="52" pc="268442567" symbol="onKey"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="57" lineNum="55" pc="268442571" symbol="onKeyPressed"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="57" lineNum="56" pc="268442575" symbol="onKeyPressed"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="59" lineNum="67" pc="268442579" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="59" lineNum="68" pc="268442583" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="59" lineNum="69" pc="268442607" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="60" lineNum="72" pc="268442618" symbol="setSelected"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="60" lineNum="73" pc="268442622" symbol="setSelected"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="77" pc="268442633" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="78" pc="268442637" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="79" pc="268442644" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="80" pc="268442681" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="81" pc="268442694" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="83" pc="268442727" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="84" pc="268442755" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="85" pc="268442786" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="86" pc="268442796" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="88" pc="268442815" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="89" pc="268442855" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="90" pc="268442871" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="92" pc="268442883" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="93" pc="268442901" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackDelegate.mc" id="61" lineNum="94" pc="268442937" symbol="draw"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="63" lineNum="11" pc="268442996" symbol="getIndex"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="63" lineNum="12" pc="268443000" symbol="getIndex"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="63" lineNum="13" pc="268443022" symbol="getIndex"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="16" pc="268443026" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="17" pc="268443030" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="19" pc="268443048" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="20" pc="268443058" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="21" pc="268443068" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="23" pc="268443078" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="24" pc="268443085" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="25" pc="268443109" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="28" pc="268443136" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="29" pc="268443149" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="32" pc="268443172" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="64" lineNum="33" pc="268443185" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="65" lineNum="37" pc="268443202" symbol="getDrawable"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="65" lineNum="38" pc="268443206" symbol="getDrawable"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="66" lineNum="41" pc="268443354" symbol="getValue"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="66" lineNum="42" pc="268443358" symbol="getValue"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="67" lineNum="45" pc="268443380" symbol="getSize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/factories/NumberFactory.mc" id="67" lineNum="46" pc="268443384" symbol="getSize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="69" lineNum="17" pc="268443418" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="69" lineNum="18" pc="268443422" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="69" lineNum="19" pc="268443440" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="70" lineNum="23" pc="268443451" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="70" lineNum="24" pc="268443455" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="70" lineNum="25" pc="268443492" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="70" lineNum="26" pc="268443522" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="70" lineNum="27" pc="268443552" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="70" lineNum="28" pc="268443582" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="70" lineNum="29" pc="268443612" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="70" lineNum="30" pc="268443642" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="70" lineNum="31" pc="268443672" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="70" lineNum="32" pc="268443702" symbol="onLayout"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="38" pc="268443733" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="39" pc="268443737" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="40" pc="268443755" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="41" pc="268443788" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="42" pc="268443795" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="43" pc="268443811" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="46" pc="268443860" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="47" pc="268443893" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="48" pc="268443900" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="49" pc="268443907" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="51" pc="268443944" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="52" pc="268443960" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="54" pc="268443979" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="55" pc="268444022" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="71" lineNum="57" pc="268444041" symbol="onShow"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="64" pc="268444076" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="65" pc="268444080" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="66" pc="268444124" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="67" pc="268444168" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="68" pc="268444212" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="69" pc="268444256" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="70" pc="268444300" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="71" pc="268444344" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="72" pc="268444388" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="74" pc="268444432" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="76" pc="268444452" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="72" lineNum="77" pc="268444487" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="73" lineNum="84" pc="268444505" symbol="drawInfo"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="73" lineNum="86" pc="268444509" symbol="drawInfo"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="73" lineNum="87" pc="268444549" symbol="drawInfo"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="73" lineNum="88" pc="268444612" symbol="drawInfo"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="73" lineNum="89" pc="268444652" symbol="drawInfo"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="73" lineNum="97" pc="268444731" symbol="drawInfo"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="73" lineNum="105" pc="268444810" symbol="drawInfo"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/ValleFitTrackView.mc" id="74" lineNum="119" pc="268444890" symbol="onHide"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="76" lineNum="10" pc="268444895" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="76" lineNum="12" pc="268444899" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="76" lineNum="17" pc="268445006" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="76" lineNum="18" pc="268445034" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="77" lineNum="23" pc="268445174" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="77" lineNum="24" pc="268445178" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="77" lineNum="25" pc="268445214" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="77" lineNum="26" pc="268445226" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="79" lineNum="35" pc="268445247" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="79" lineNum="36" pc="268445251" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="79" lineNum="37" pc="268445269" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="80" lineNum="40" pc="268445280" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="80" lineNum="41" pc="268445284" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="81" lineNum="44" pc="268445313" symbol="onAccept"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="81" lineNum="45" pc="268445317" symbol="onAccept"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/TimePicker.mc" id="81" lineNum="46" pc="268445358" symbol="onAccept"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="83" lineNum="8" pc="268445387" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="83" lineNum="10" pc="268445391" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="83" lineNum="15" pc="268445495" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="83" lineNum="16" pc="268445532" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="84" lineNum="23" pc="268445653" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="84" lineNum="24" pc="268445657" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="84" lineNum="25" pc="268445693" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="84" lineNum="26" pc="268445705" symbol="onUpdate"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="86" lineNum="40" pc="268445726" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="86" lineNum="41" pc="268445730" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="86" lineNum="42" pc="268445748" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="86" lineNum="43" pc="268445758" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="86" lineNum="44" pc="268445768" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="86" lineNum="45" pc="268445778" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="86" lineNum="46" pc="268445788" symbol="initialize"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="87" lineNum="49" pc="268445799" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="87" lineNum="50" pc="268445803" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="87" lineNum="51" pc="268445831" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="87" lineNum="52" pc="268445844" symbol="onCancel"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="88" lineNum="57" pc="268445955" symbol="onAccept"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="88" lineNum="58" pc="268445959" symbol="onAccept"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="88" lineNum="59" pc="268445969" symbol="onAccept"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="88" lineNum="60" pc="268445995" symbol="onAccept"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="88" lineNum="61" pc="268446039" symbol="onAccept"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="88" lineNum="62" pc="268446067" symbol="onAccept"/>
+<entry filename="/Users/valle/proyectos/GarminValleFitTrack/ValleFitTrack-watch/source/pickers/NumerPicker.mc" id="88" lineNum="63" pc="268446080" symbol="onAccept"/>
+<entry filename="Rez" id="94" lineNum="28" pc="268446191" symbol="initialize"/>
+<entry filename="Rez" id="94" lineNum="29" pc="268446195" symbol="initialize"/>
+<entry filename="Rez" id="94" lineNum="30" pc="268446213" symbol="initialize"/>
+<entry filename="Rez" id="94" lineNum="31" pc="268446235" symbol="initialize"/>
+<entry filename="Rez" id="94" lineNum="32" pc="268446257" symbol="initialize"/>
+<entry filename="Rez" id="97" lineNum="48" pc="268446280" symbol="initialize"/>
+<entry filename="Rez" id="97" lineNum="49" pc="268446284" symbol="initialize"/>
+<entry filename="Rez" id="98" lineNum="52" pc="268446309" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="54" pc="268446313" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="55" pc="268446349" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="56" pc="268446405" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="58" pc="268446441" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="59" pc="268446477" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="61" pc="268446504" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="62" pc="268446540" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="64" pc="268446567" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="65" pc="268446603" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="67" pc="268446635" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="68" pc="268446671" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="70" pc="268446708" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="71" pc="268446744" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="72" pc="268446771" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="73" pc="268446807" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="75" pc="268446834" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="76" pc="268446870" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="78" pc="268446907" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="79" pc="268446943" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="81" pc="268447081" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="82" pc="268447117" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="83" pc="268447149" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="84" pc="268447185" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="86" pc="268447217" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="87" pc="268447253" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="89" pc="268447285" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="90" pc="268447321" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="92" pc="268447353" symbol="draw"/>
+<entry filename="Rez" id="98" lineNum="93" pc="268447389" symbol="draw"/>
+<entry filename="Rez" id="100" lineNum="106" pc="268447568" symbol="initialize"/>
+<entry filename="Rez" id="100" lineNum="107" pc="268447572" symbol="initialize"/>
+<entry filename="Rez" id="101" lineNum="110" pc="268447597" symbol="draw"/>
+<entry filename="Rez" id="101" lineNum="112" pc="268447601" symbol="draw"/>
+<entry filename="Rez" id="101" lineNum="113" pc="268447637" symbol="draw"/>
+<entry filename="Rez" id="101" lineNum="114" pc="268447693" symbol="draw"/>
+<entry filename="Rez" id="101" lineNum="116" pc="268447729" symbol="draw"/>
+<entry filename="Rez" id="101" lineNum="117" pc="268447765" symbol="draw"/>
+<entry filename="Rez" id="101" lineNum="119" pc="268447797" symbol="draw"/>
+<entry filename="Rez" id="101" lineNum="120" pc="268447833" symbol="draw"/>
+<entry filename="Rez" id="103" lineNum="133" pc="268447861" symbol="initialize"/>
+<entry filename="Rez" id="103" lineNum="134" pc="268447865" symbol="initialize"/>
+<entry filename="Rez" id="104" lineNum="137" pc="268447890" symbol="draw"/>
+<entry filename="Rez" id="104" lineNum="138" pc="268447894" symbol="draw"/>
+<entry filename="Rez" id="104" lineNum="139" pc="268447907" symbol="draw"/>
+<entry filename="Rez" id="104" lineNum="141" pc="268447920" symbol="draw"/>
+<entry filename="Rez" id="104" lineNum="142" pc="268447949" symbol="draw"/>
+<entry filename="Rez" id="104" lineNum="143" pc="268447987" symbol="draw"/>
+<entry filename="Rez" id="104" lineNum="145" pc="268448016" symbol="draw"/>
+<entry filename="Rez" id="104" lineNum="146" pc="268448052" symbol="draw"/>
+<entry filename="Rez" id="104" lineNum="148" pc="268448126" symbol="draw"/>
+<entry filename="Rez" id="104" lineNum="149" pc="268448162" symbol="draw"/>
+<entry filename="Rez" id="106" lineNum="164" pc="268448237" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="167" pc="268448249" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="168" pc="268448262" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="171" pc="268448275" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="172" pc="268448315" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="173" pc="268448328" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="175" pc="268448344" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="176" pc="268448473" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="177" pc="268448602" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="178" pc="268448731" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="179" pc="268448860" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="180" pc="268448989" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="181" pc="268449118" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="182" pc="268449274" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="183" pc="268449430" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="184" pc="268449586" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="185" pc="268449742" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="186" pc="268449898" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="187" pc="268450054" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="188" pc="268450210" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="189" pc="268450366" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="190" pc="268450522" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="191" pc="268450678" symbol="MainLayout"/>
+<entry filename="Rez" id="106" lineNum="193" pc="268450834" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry field="true" id="107" symbol="mLabelLap"/>
@@ -540,14 +539,14 @@
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
-<entry id="12" object="true" symbol="ValleFitTrackView"/>
+<entry id="18" object="true" symbol="ValleFitTrackView"/>
 <entry field="true" id="74" symbol="mSession"/>
-<entry id="11" object="true" symbol="NumberFactory"/>
-<entry id="19" object="true" symbol="TimePicker"/>
+<entry id="17" object="true" symbol="NumberFactory"/>
+<entry id="20" object="true" symbol="TimePicker"/>
 <entry field="true" id="35" symbol="peso_serie_unit"/>
 <entry id="8388764" method="true" symbol="format"/>
 <entry id="8389553" method="true" symbol="onKeyPressed"/>
-<entry id="17" object="true" symbol="ValleFitTrackController"/>
+<entry id="9" object="true" symbol="ValleFitTrackController"/>
 <entry field="true" id="104" symbol="mLabelTimer"/>
 <entry field="true" id="52" symbol="INIT"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
@@ -567,16 +566,16 @@
 <entry field="true" id="65" symbol="hr"/>
 <entry field="true" id="77" symbol="control_ejercicio"/>
 <entry id="8389349" symbol="justification"/>
-<entry id="16" object="true" symbol="EjercicioMenuDelegate"/>
+<entry id="12" object="true" symbol="EjercicioMenuDelegate"/>
 <entry field="true" id="47" symbol="c_title"/>
 <entry field="true" id="67" symbol="set"/>
 <entry id="8388987" method="true" symbol="vibrate"/>
 <entry id="8389644" symbol="defaults"/>
 <entry field="true" id="44" symbol="series"/>
-<entry id="20" object="true" symbol="TimePickerDelegate"/>
+<entry id="21" object="true" symbol="TimePickerDelegate"/>
 <entry field="true" id="37" symbol="tiempo_trabajo_unit"/>
 <entry field="true" id="49" symbol="c_field"/>
-<entry id="15" object="true" symbol="EjercicioPicker"/>
+<entry id="11" object="true" symbol="EjercicioPicker"/>
 <entry id="31" object="true" symbol="MainMenu"/>
 <entry id="99" method="true" symbol="setSelected"/>
 <entry field="true" id="73" symbol="mLogger"/>
@@ -610,18 +609,18 @@
 <entry id="95" method="true" symbol="getLap"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="9" object="true" symbol="ValleFitTrackDelegate"/>
+<entry id="15" object="true" symbol="ValleFitTrackDelegate"/>
 <entry field="true" id="8388892" symbol="name"/>
 <entry id="8388641" module="true" symbol="Math"/>
 <entry id="8389541" method="true" symbol="onCancel"/>
 <entry id="89" method="true" symbol="getSET"/>
-<entry field="true" id="18" symbol="NUMBER_FORMAT"/>
+<entry field="true" id="19" symbol="NUMBER_FORMAT"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry field="true" id="8389128" symbol="mFont"/>
 <entry id="8389847" symbol="mesgType"/>
 <entry id="8389347" symbol="color"/>
-<entry id="10" object="true" symbol="DrawableMenuTitle"/>
+<entry id="16" object="true" symbol="DrawableMenuTitle"/>
 <entry id="108" method="true" symbol="drawInfo"/>
 <entry id="91" method="true" symbol="getHora"/>
 <entry id="8389097" method="true" symbol="onKey"/>
@@ -650,111 +649,111 @@
 <entry id="81" method="true" symbol="onResumeWork"/>
 <entry id="8388635" module="true" symbol="Application"/>
 <entry field="true" id="8389642" symbol="title"/>
-<entry id="21" object="true" symbol="ValleFitTrackApp"/>
+<entry id="10" object="true" symbol="ValleFitTrackApp"/>
 <entry id="8389101" method="true" symbol="onSwipe"/>
 <entry id="115" symbol="subsport"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435489" name="tracker" stackId="1" startPc="268435456"/>
-<entry endPc="268435937" name="menu" stackId="1" startPc="268435493"/>
-<entry endPc="268436140" name="evt" stackId="1" startPc="268436114"/>
-<entry endPc="268436148" name="evt" stackId="1" startPc="268436140"/>
-<entry endPc="268436156" name="evt" stackId="1" startPc="268436148"/>
-<entry endPc="268436164" name="evt" stackId="1" startPc="268436156"/>
-<entry endPc="268436203" name="title" stackId="1" startPc="268436164"/>
-<entry endPc="268436218" name="isTitleSelected" stackId="1" startPc="268436203"/>
-<entry endPc="268436580" name="bitmapX" stackId="6" startPc="268436222"/>
-<entry endPc="268436580" name="appIcon" stackId="3" startPc="268436222"/>
-<entry endPc="268436580" name="labelY" stackId="9" startPc="268436222"/>
-<entry endPc="268436580" name="labelWidth" stackId="5" startPc="268436222"/>
-<entry endPc="268436580" name="spacing" stackId="2" startPc="268436222"/>
-<entry endPc="268436580" name="labelX" stackId="8" startPc="268436222"/>
-<entry endPc="268436580" name="bitmapWidth" stackId="4" startPc="268436222"/>
-<entry endPc="268436580" name="bkColor" stackId="10" startPc="268436222"/>
-<entry endPc="268436580" name="bitmapY" stackId="7" startPc="268436222"/>
-<entry endPc="268436581" name="dc" stackId="1" startPc="268436218"/>
-<entry endPc="268436610" name="index" stackId="2" startPc="268436585"/>
-<entry endPc="268436611" name="value" stackId="1" startPc="268436581"/>
-<entry endPc="268436787" name="increment" stackId="3" startPc="268436611"/>
-<entry endPc="268436787" name="options" stackId="4" startPc="268436611"/>
-<entry endPc="268436787" name="stop" stackId="2" startPc="268436611"/>
-<entry endPc="268436787" name="start" stackId="1" startPc="268436611"/>
-<entry endPc="268436939" name="index" stackId="1" startPc="268436787"/>
-<entry endPc="268436939" name="selected" stackId="2" startPc="268436787"/>
-<entry endPc="268436965" name="index" stackId="1" startPc="268436939"/>
-<entry endPc="268437036" name="tracker" stackId="1" startPc="268437003"/>
-<entry endPc="268437318" name="dc" stackId="1" startPc="268437036"/>
-<entry endPc="268437561" name="rest" stackId="1" startPc="268437340"/>
-<entry endPc="268437561" name="aWork" stackId="2" startPc="268437340"/>
-<entry endPc="268438090" name="dc" stackId="1" startPc="268437661"/>
-<entry endPc="268438475" name="dc" stackId="1" startPc="268438090"/>
-<entry endPc="268438755" name="dc" stackId="1" startPc="268438681"/>
-<entry endPc="268438822" name="timer_duracion" stackId="1" startPc="268438759"/>
-<entry endPc="268439100" name="dc" stackId="1" startPc="268438844"/>
-<entry endPc="268439133" name="tracker" stackId="1" startPc="268439100"/>
-<entry endPc="268439619" name="item" stackId="1" startPc="268439133"/>
-<entry endPc="268439700" name="field" stackId="1" startPc="268439685"/>
-<entry endPc="268440183" name="menu" stackId="1" startPc="268439704"/>
-<entry endPc="268440217" name="field" stackId="1" startPc="268440184"/>
-<entry endPc="268440822" name="item" stackId="1" startPc="268440217"/>
-<entry endPc="268441339" name="value" stackId="4" startPc="268441078"/>
-<entry endPc="268441339" name="title" stackId="3" startPc="268441078"/>
-<entry endPc="268441340" name="num_max" stackId="2" startPc="268441074"/>
-<entry endPc="268441340" name="title_menu" stackId="1" startPc="268441074"/>
-<entry endPc="268441413" name="dc" stackId="1" startPc="268441340"/>
-<entry endPc="268441486" name="max" stackId="3" startPc="268441413"/>
-<entry endPc="268441486" name="field" stackId="4" startPc="268441413"/>
-<entry endPc="268441486" name="title2" stackId="2" startPc="268441413"/>
-<entry endPc="268441486" name="title" stackId="1" startPc="268441413"/>
-<entry endPc="268441486" name="field2" stackId="5" startPc="268441413"/>
-<entry endPc="268441877" name="value" stackId="2" startPc="268441646"/>
-<entry endPc="268441878" name="values" stackId="1" startPc="268441642"/>
-<entry endPc="268444115" name="t" stackId="1" startPc="268444061"/>
-<entry endPc="268444510" name="m" stackId="5" startPc="268444259"/>
-<entry endPc="268444510" name="m_totales" stackId="4" startPc="268444259"/>
-<entry endPc="268444510" name="s" stackId="6" startPc="268444259"/>
-<entry endPc="268444510" name="h" stackId="3" startPc="268444259"/>
-<entry endPc="268444534" name="hora" stackId="2" startPc="268444234"/>
-<entry endPc="268444534" name="sec" stackId="1" startPc="268444234"/>
-<entry endPc="268445003" name="info" stackId="1" startPc="268444538"/>
-<entry endPc="268445090" name="vibrateData" stackId="2" startPc="268445023"/>
-<entry endPc="268445094" name="s" stackId="1" startPc="268445004"/>
-<entry endPc="268445317" name="today" stackId="1" startPc="268445180"/>
-<entry endPc="268445317" name="horaString" stackId="2" startPc="268445180"/>
-<entry endPc="268445816" name="value" stackId="3" startPc="268445542"/>
-<entry endPc="268445816" name="title" stackId="2" startPc="268445542"/>
-<entry endPc="268445817" name="name" stackId="1" startPc="268445538"/>
-<entry endPc="268445890" name="dc" stackId="1" startPc="268445817"/>
-<entry endPc="268445923" name="name" stackId="1" startPc="268445890"/>
-<entry endPc="268446030" name="values" stackId="1" startPc="268445956"/>
-<entry endPc="268446058" name="state" stackId="1" startPc="268446053"/>
-<entry endPc="268446066" name="state" stackId="1" startPc="268446058"/>
-<entry endPc="268447561" name="dc" stackId="1" startPc="268446302"/>
-<entry endPc="268447854" name="dc" stackId="1" startPc="268447590"/>
-<entry endPc="268448229" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268447887"/>
-<entry endPc="268448229" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268447887"/>
-<entry endPc="268448230" name="dc" stackId="1" startPc="268447883"/>
-<entry endPc="268451014" name="rez_cmp_local_text_lap" stackId="14" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_set_label" stackId="11" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_set" stackId="12" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_hora_label" stackId="5" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_kal" stackId="10" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_rest" stackId="20" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_hora" stackId="6" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_workout" stackId="16" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_custom_drawable_MainBackground" stackId="4" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_hr" stackId="8" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_workout_label" stackId="15" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_kal_label" stackId="9" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_hr_label" stackId="7" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_timer_label" stackId="17" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_timer" stackId="18" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_info" stackId="21" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_rest_lable" stackId="19" startPc="268448242"/>
-<entry endPc="268451014" name="rez_cmp_local_text_lap_label" stackId="13" startPc="268448242"/>
-<entry endPc="268451015" name="dc" stackId="1" startPc="268448230"/>
+<entry endPc="268437700" name="t" stackId="1" startPc="268437646"/>
+<entry endPc="268438095" name="m" stackId="5" startPc="268437844"/>
+<entry endPc="268438095" name="m_totales" stackId="4" startPc="268437844"/>
+<entry endPc="268438095" name="s" stackId="6" startPc="268437844"/>
+<entry endPc="268438095" name="h" stackId="3" startPc="268437844"/>
+<entry endPc="268438119" name="hora" stackId="2" startPc="268437819"/>
+<entry endPc="268438119" name="sec" stackId="1" startPc="268437819"/>
+<entry endPc="268438588" name="info" stackId="1" startPc="268438123"/>
+<entry endPc="268438675" name="vibrateData" stackId="2" startPc="268438608"/>
+<entry endPc="268438679" name="s" stackId="1" startPc="268438589"/>
+<entry endPc="268438902" name="today" stackId="1" startPc="268438765"/>
+<entry endPc="268438902" name="horaString" stackId="2" startPc="268438765"/>
+<entry endPc="268439151" name="state" stackId="1" startPc="268439146"/>
+<entry endPc="268439159" name="state" stackId="1" startPc="268439151"/>
+<entry endPc="268439292" name="field" stackId="1" startPc="268439277"/>
+<entry endPc="268439775" name="menu" stackId="1" startPc="268439296"/>
+<entry endPc="268439809" name="field" stackId="1" startPc="268439776"/>
+<entry endPc="268440414" name="item" stackId="1" startPc="268439809"/>
+<entry endPc="268440941" name="dc" stackId="1" startPc="268440867"/>
+<entry endPc="268441008" name="timer_duracion" stackId="1" startPc="268440945"/>
+<entry endPc="268441286" name="dc" stackId="1" startPc="268441030"/>
+<entry endPc="268441319" name="tracker" stackId="1" startPc="268441286"/>
+<entry endPc="268441805" name="item" stackId="1" startPc="268441319"/>
+<entry endPc="268441904" name="tracker" stackId="1" startPc="268441871"/>
+<entry endPc="268442352" name="menu" stackId="1" startPc="268441908"/>
+<entry endPc="268442555" name="evt" stackId="1" startPc="268442529"/>
+<entry endPc="268442563" name="evt" stackId="1" startPc="268442555"/>
+<entry endPc="268442571" name="evt" stackId="1" startPc="268442563"/>
+<entry endPc="268442579" name="evt" stackId="1" startPc="268442571"/>
+<entry endPc="268442618" name="title" stackId="1" startPc="268442579"/>
+<entry endPc="268442633" name="isTitleSelected" stackId="1" startPc="268442618"/>
+<entry endPc="268442995" name="bitmapX" stackId="6" startPc="268442637"/>
+<entry endPc="268442995" name="appIcon" stackId="3" startPc="268442637"/>
+<entry endPc="268442995" name="labelY" stackId="9" startPc="268442637"/>
+<entry endPc="268442995" name="labelWidth" stackId="5" startPc="268442637"/>
+<entry endPc="268442995" name="spacing" stackId="2" startPc="268442637"/>
+<entry endPc="268442995" name="labelX" stackId="8" startPc="268442637"/>
+<entry endPc="268442995" name="bitmapWidth" stackId="4" startPc="268442637"/>
+<entry endPc="268442995" name="bkColor" stackId="10" startPc="268442637"/>
+<entry endPc="268442995" name="bitmapY" stackId="7" startPc="268442637"/>
+<entry endPc="268442996" name="dc" stackId="1" startPc="268442633"/>
+<entry endPc="268443025" name="index" stackId="2" startPc="268443000"/>
+<entry endPc="268443026" name="value" stackId="1" startPc="268442996"/>
+<entry endPc="268443202" name="increment" stackId="3" startPc="268443026"/>
+<entry endPc="268443202" name="options" stackId="4" startPc="268443026"/>
+<entry endPc="268443202" name="stop" stackId="2" startPc="268443026"/>
+<entry endPc="268443202" name="start" stackId="1" startPc="268443026"/>
+<entry endPc="268443354" name="index" stackId="1" startPc="268443202"/>
+<entry endPc="268443354" name="selected" stackId="2" startPc="268443202"/>
+<entry endPc="268443380" name="index" stackId="1" startPc="268443354"/>
+<entry endPc="268443451" name="tracker" stackId="1" startPc="268443418"/>
+<entry endPc="268443733" name="dc" stackId="1" startPc="268443451"/>
+<entry endPc="268443976" name="rest" stackId="1" startPc="268443755"/>
+<entry endPc="268443976" name="aWork" stackId="2" startPc="268443755"/>
+<entry endPc="268444505" name="dc" stackId="1" startPc="268444076"/>
+<entry endPc="268444890" name="dc" stackId="1" startPc="268444505"/>
+<entry endPc="268445173" name="value" stackId="3" startPc="268444899"/>
+<entry endPc="268445173" name="title" stackId="2" startPc="268444899"/>
+<entry endPc="268445174" name="name" stackId="1" startPc="268444895"/>
+<entry endPc="268445247" name="dc" stackId="1" startPc="268445174"/>
+<entry endPc="268445280" name="name" stackId="1" startPc="268445247"/>
+<entry endPc="268445387" name="values" stackId="1" startPc="268445313"/>
+<entry endPc="268445652" name="value" stackId="4" startPc="268445391"/>
+<entry endPc="268445652" name="title" stackId="3" startPc="268445391"/>
+<entry endPc="268445653" name="num_max" stackId="2" startPc="268445387"/>
+<entry endPc="268445653" name="title_menu" stackId="1" startPc="268445387"/>
+<entry endPc="268445726" name="dc" stackId="1" startPc="268445653"/>
+<entry endPc="268445799" name="max" stackId="3" startPc="268445726"/>
+<entry endPc="268445799" name="field" stackId="4" startPc="268445726"/>
+<entry endPc="268445799" name="title2" stackId="2" startPc="268445726"/>
+<entry endPc="268445799" name="title" stackId="1" startPc="268445726"/>
+<entry endPc="268445799" name="field2" stackId="5" startPc="268445726"/>
+<entry endPc="268446190" name="value" stackId="2" startPc="268445959"/>
+<entry endPc="268446191" name="values" stackId="1" startPc="268445955"/>
+<entry endPc="268447568" name="dc" stackId="1" startPc="268446309"/>
+<entry endPc="268447861" name="dc" stackId="1" startPc="268447597"/>
+<entry endPc="268448236" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268447894"/>
+<entry endPc="268448236" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268447894"/>
+<entry endPc="268448237" name="dc" stackId="1" startPc="268447890"/>
+<entry endPc="268451021" name="rez_cmp_local_text_lap" stackId="14" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_set_label" stackId="11" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_set" stackId="12" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_hora_label" stackId="5" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_kal" stackId="10" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_rest" stackId="20" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_hora" stackId="6" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_workout" stackId="16" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_custom_drawable_MainBackground" stackId="4" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_hr" stackId="8" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_workout_label" stackId="15" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_kal_label" stackId="9" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_hr_label" stackId="7" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_timer_label" stackId="17" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_timer" stackId="18" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_info" stackId="21" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_rest_lable" stackId="19" startPc="268448249"/>
+<entry endPc="268451021" name="rez_cmp_local_text_lap_label" stackId="13" startPc="268448249"/>
+<entry endPc="268451022" name="dc" stackId="1" startPc="268448237"/>
 </localVars>
 <annotations/>
 <dataEntryOffsetMappings>
@@ -781,11 +780,149 @@
 <dataEntry offset="2035" parentId="globals" symbolId="ValleFitTrackMenuDelegate" type="class"/>
 <dataEntry offset="2114" parentId="globals" symbolId="DrawableMenuTitle" type="class"/>
 <dataEntry offset="2193" parentId="globals" symbolId="ValleFitTrackView" type="class"/>
-<dataEntry offset="2352" parentId="globals" symbolId="ValleFitTrackApp" type="class"/>
-<dataEntry offset="2431" parentId="globals" symbolId="TimePicker" type="class"/>
+<dataEntry offset="2352" parentId="globals" symbolId="TimePicker" type="class"/>
+<dataEntry offset="2407" parentId="globals" symbolId="ValleFitTrackApp" type="class"/>
 <dataEntry offset="2486" parentId="globals" symbolId="NumberFactory" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
+<functionEntry accessMode="public" name="initialize" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStartWork" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStopWork" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPauseWork" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onResumeWork" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextLap" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onCancel" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onOpenEjerciciosDg" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="openModPesoDg" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="calculate_time_track" parent="ValleFitTrackController">
+<param id="sec"/>
+<param id="hora"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="timer_duracion_callback" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="runVibrate" parent="ValleFitTrackController">
+<param id="s"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getWork" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSET" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getTiempo" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHora" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getKAL" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getRest" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHR" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getLap" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getStatus" parent="ValleFitTrackController">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ValleFitTrackApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="ValleFitTrackApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="ValleFitTrackApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="ValleFitTrackApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="EjercicioPicker">
+<param id="field"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="EjercicioPicker">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="EjercicioMenuDelegate">
+<param id="field"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="EjercicioMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="EjercicioMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="EjercicioMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MyWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="MyWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MyWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="timer_callback" parent="MyWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MyWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ValleFitTrackMenuDelegate">
+<param id="tracker"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="ValleFitTrackMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="ValleFitTrackMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="ValleFitTrackMenuDelegate">
+<documentation/>
+</functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="ValleFitTrackDelegate">
 <param id="tracker"/>
 <documentation/>
@@ -869,56 +1006,23 @@
 <functionEntry accessMode="public" name="onHide" parent="ValleFitTrackView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="MyWatchView">
+<functionEntry accessMode="public" name="initialize" parent="TimePicker">
+<param id="name"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onLayout" parent="MyWatchView">
+<functionEntry accessMode="public" name="onUpdate" parent="TimePicker">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onShow" parent="MyWatchView">
+<functionEntry accessMode="public" name="initialize" parent="TimePickerDelegate">
+<param id="name"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="timer_callback" parent="MyWatchView">
+<functionEntry accessMode="public" name="onCancel" parent="TimePickerDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onUpdate" parent="MyWatchView">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="ValleFitTrackMenuDelegate">
-<param id="tracker"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onSelect" parent="ValleFitTrackMenuDelegate">
-<param id="item"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onBack" parent="ValleFitTrackMenuDelegate">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onNextPage" parent="ValleFitTrackMenuDelegate">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="EjercicioPicker">
-<param id="field"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onMenu" parent="EjercicioPicker">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="EjercicioMenuDelegate">
-<param id="field"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onSelect" parent="EjercicioMenuDelegate">
-<param id="item"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onBack" parent="EjercicioMenuDelegate">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onNextPage" parent="EjercicioMenuDelegate">
+<functionEntry accessMode="public" name="onAccept" parent="TimePickerDelegate">
+<param id="values"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="NumberPicker">
@@ -943,111 +1047,6 @@
 </functionEntry>
 <functionEntry accessMode="public" name="onAccept" parent="NumberPickerDelegate">
 <param id="values"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStart" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStartWork" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStopWork" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onPauseWork" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onResumeWork" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onNextLap" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStop" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onCancel" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onOpenEjerciciosDg" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="openModPesoDg" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="calculate_time_track" parent="ValleFitTrackController">
-<param id="sec"/>
-<param id="hora"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="timer_duracion_callback" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="runVibrate" parent="ValleFitTrackController">
-<param id="s"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getWork" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getSET" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getTiempo" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getHora" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getKAL" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getRest" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getHR" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getLap" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getStatus" parent="ValleFitTrackController">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="TimePicker">
-<param id="name"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onUpdate" parent="TimePicker">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="TimePickerDelegate">
-<param id="name"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onCancel" parent="TimePickerDelegate">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onAccept" parent="TimePickerDelegate">
-<param id="values"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="ValleFitTrackApp">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStart" parent="ValleFitTrackApp">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStop" parent="ValleFitTrackApp">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getInitialView" parent="ValleFitTrackApp">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="MainMenu">

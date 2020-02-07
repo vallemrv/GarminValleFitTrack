@@ -174,12 +174,12 @@ class ValleFitTrackController {
              mSession.addLap();
              m_control_ejercicio =  m_control_ejercicio + 1;
           	 control_ejercicio.setData(m_control_ejercicio);
-	           series.setData(set);
-	           rest = TIME_REST;
-	           lap = lap + 1;
-	           set = 0;
-	           runVibrate(500);
-	           onOpenEjerciciosDg();
+	         series.setData(set);
+	         //rest = TIME_REST;
+	         lap = lap + 1;
+	         set = 0;
+	         runVibrate(500);
+	         onOpenEjerciciosDg();
          }
     }
 

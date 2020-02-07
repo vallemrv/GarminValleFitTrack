@@ -1,6 +1,7 @@
 #:import . components.pagenavigations
 #:import hex_to_icon components.resources.hex_to_icon
 #:import get_color_from_hex kivy.utils.get_color_from_hex
+
 <LabelInfo@Label>:
     color: 0,0,0,1
     font_size: "20dp"
@@ -34,28 +35,140 @@
                 radius: [50,]
         BoxLayout:
             orientation: "vertical"
-            size_hint: .9, .8
+            AnchorLayout:
+                id: __title
+                anchor_x: "center"
+                anchor_y: "center"
+                size_hint: 1, .25
+                canvas:
+                    Color:
+                        rgba: .3,.3,.3,1
+                    RoundedRectangle:
+                        pos: self.pos
+                        size: self.size
+                        radius: [50,50,0,0]
+                BoxLayout:
+                    LabelInfo:
+                        id: __nombre
+                        text: 'Nombre: '+ root.nombre
+                        color: 1,1,1,1
+                    LabelInfo:
+                        id: __tiempo
+                        text: 'Duracion: '+ root.tiempo
+                        color: 1,1,1,1
+
             BoxLayout:
-                LabelInfo:
-                    id: __nombre
-                    text: 'Nombre: '+ root.nombre
-                LabelInfo:
-                    id: __tiempo
-                    text: 'Duracion: '+ root.tiempo
-            BoxLayout:
-                LabelInfo:
-                    id: __vueltas
-                    text: 'Set: '+ root.vueltas
-                LabelInfo:
-                    id: __max_hr
-                    text: 'HR. max: '+ root.max_hr
-                LabelInfo:
-                    id: __avg_hr
-                    text: 'HR. medio: '+ root.avg_hr
+                id: __decorator
+                size_hint: 1, None
+                height: "2dp"
+                canvas:
+                    Color:
+                        rgba: 0,0,0,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+            AnchorLayout:
+                id: __content
+                anchor_x: "center"
+                anchor_y: "top"
+                size_hint: 1, .97 - .25
+                BoxLayout:
+                    size_hint: .9, .7
+                    LabelInfo:
+                        id: __vueltas
+                        text: 'Set: '+ root.vueltas
+                    LabelInfo:
+                        id: __max_hr
+                        text: 'HR. max: '+ root.max_hr
+                    LabelInfo:
+                        id: __avg_hr
+                        text: 'HR. medio: '+ root.avg_hr
+
         FloatButton:
-            position: "top"
             icon: res.FA_EYE
-            button_size: "40dp"
+            on_release: root.ver()
+            button_size: "30dp"
+
+
+<StatisticsWdiget>:
+    anchor_x: "center"
+    anchor_y: "center"
+    size_hint: 1, 1
+    AnchorLayout:
+        anchor_x: "center"
+        anchor_y: "center"
+        size_hint: .95, .9
+        canvas.before:
+            Color:
+                rgb: 0,0,0,1
+            RoundedRectangle:
+                size: self.width + dp(5), self.height + dp(5)
+                pos: self.x - dp(2.5), self.y - dp(2.5)
+                radius: [50,]
+            Color:
+                rgb: root.bg_color
+            RoundedRectangle:
+                size: self.size
+                pos: self.pos
+                radius: [50,]
+        BoxLayout:
+            orientation: "vertical"
+            AnchorLayout:
+                id: __title
+                anchor_x: "center"
+                anchor_y: "center"
+                size_hint: 1, .25
+                canvas:
+                    Color:
+                        rgba: .3,.3,.3,1
+                    RoundedRectangle:
+                        pos: self.pos
+                        size: self.size
+                        radius: [50,50,0,0]
+                BoxLayout:
+                    LabelInfo:
+                        id: __nombre
+                        text: 'Tipo ejer: '+ root.ejercicio
+                        color: 1,1,1,1
+                    LabelInfo:
+                        id: __tiempo
+                        text: 'Duracion: '+ root.secons_to_string(root.tiempo)
+                        color: 1,1,1,1
+
+            BoxLayout:
+                id: __decorator
+                size_hint: 1, None
+                height: "2dp"
+                canvas:
+                    Color:
+                        rgba: 0,0,0,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+            AnchorLayout:
+                id: __content
+                anchor_x: "center"
+                anchor_y: "top"
+                size_hint: 1, .97 - .25
+                BoxLayout:
+                    size_hint: .9, .7
+                    BoxLayout:
+                        orientation:"vertical"
+                        LabelInfo:
+                            id: __series
+                            text: 'Series: '+ "X".join(root.series)
+                        LabelInfo:
+                            id: __peso
+                            text: 'Peso/ser: '+ "X".join(root.pesos)
+                    BoxLayout:
+                        orientation:"vertical"
+                        LabelInfo:
+                            id: __tiempo_descano
+                            text: 'T. descanso: '+ root.secons_to_string(root.tiempo_descanso)
+                        LabelInfo:
+                            id: __tiempo_trabajo
+                            text: 'T. trabajo: '+ root.secons_to_string(root.tiempo_trabajo)
+
 
 
 <ValleFitTrackPage>:
@@ -93,3 +206,4 @@
         id_page: "actividad"
         MenuListView:
             id: __content_statistics
+            row_height: "150dp"
